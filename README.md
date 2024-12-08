@@ -7,4 +7,4 @@ Chapter 4 - Comparison of liquid preservative for the long-term (2-month) preser
 Samples for both the temporal and preservative work were collected processed at the same time.
 Temporal samples were collected using the Robotic Cartridge Sampling Instrument (RoCSI) and the preservative samples were collected manually from the same water supply.
 
-The repository includes the command line scripts used for QIIME2 bioinformatics and HTML files containing the data analysis performed in R Markdown.
+The repository includes the command line scripts used for QIIME2 bioinformatics and R Markdown HTML files containing the data analysis.
